@@ -1,0 +1,2 @@
+g++ -std=c++0x Scheduler.cpp -o sched
+./sched [options]

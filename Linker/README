@@ -1,0 +1,2 @@
+To compile Linker.cpp do this: g++ -std=c++0x Linker.cpp -o Linker
+To run it type ./Linker filename.
